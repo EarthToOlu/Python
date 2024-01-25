@@ -1,0 +1,30 @@
+# Ibukun Babarinde
+# I love spaghetti
+
+print("""IIIII
+  I
+  I
+  I
+  I
+  I
+IIIII 
+          """)
+
+print("""BBBB
+B   B
+B   B
+BBBB
+B   B
+B   B
+BBBB""")
+
+print("  " + "  ")
+print("  " + "  ")
+
+print("IIIII   BBBB  ")
+print("  I     B   B ")
+print("  I     B   B  ")
+print("  I     BBBB   ")
+print("  I     B   B ")
+print("  I     B   B ")
+print("IIIII   BBBB  ")
