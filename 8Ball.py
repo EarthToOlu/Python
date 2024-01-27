@@ -1,5 +1,5 @@
 name = "Ibukun "
-question = "Will I love again"
+question = "Will I own a flying car next week?"
 if question == "":
   print("Name and question: ")
 else:
